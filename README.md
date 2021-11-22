@@ -1,5 +1,5 @@
 # Quizconq
-Mini quiz game with a variaty of questions in greek.
+Mini quiz game with a variety of questions in greek.
 
 <img src="Images_for_Readme/intro.png" width="700">
 
